@@ -6,4 +6,5 @@ feature_test1に対しファイルを追加。
 
 |===
 |No. |分類 | 内容 | 備考
-|1 | Doc | xxx | memo
+|1 | Doc | zzz | memo
+|2 | model | aaa | memo
